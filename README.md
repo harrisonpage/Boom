@@ -24,4 +24,4 @@ cp target/Boom-1.0.3.jar ~/minecraft/plugins/
 
 # Etc
 
-Created by [harrison.page](https://harrison.page) on 5-Apr-2022
+Created by [harrison.page](https://harrison.page) on 5-Apr-2012
